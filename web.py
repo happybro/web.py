@@ -173,9 +173,5 @@ with st.form("nova_os"):
 # Rodapé
 st.markdown("""
 ---
-**Acesso pela internet:**  
-1. Salve este arquivo como `web.py`  
-2. Suba no [Streamlit Cloud](https://streamlit.io/cloud) (grátis)  
-3. Link gerado → manda no WhatsApp da equipe!  
-Atualiza sozinho • Funciona no celular • Usa o mesmo banco do programa principal
+JJSOFT26
 """)
