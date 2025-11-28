@@ -178,10 +178,6 @@ with st.form("nova_os_form", clear_on_submit=True):
 # Rodapé
 st.markdown("""
 ---
-**Tudo funcionando!**  
-- Usa o mesmo banco do programa principal  
-- Atualiza sozinho a cada 15 segundos  
-- Manda esse link pro WhatsApp da equipe toda!  
-
-Pronto pra subir na internet (Streamlit Cloud grátis) em 1 minuto.
+JJSOFT26
 """)
+
